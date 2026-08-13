@@ -3,6 +3,7 @@
 // identifier: com.pilotmoon.popclip.extension.straighten-quotes
 // description: Convert "smart" quotation marks and apostrophes to ASCII quotes.
 // icon: 'strike iconify:tabler:quote-filled'
+// popclip version: 4688
 // keywords: curly quotes smart quotes straight quotes apostrophes
 
 const singleQuotes = /[‘’]/gu;

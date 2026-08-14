@@ -5,7 +5,7 @@
 // icon: 'strike iconify:tabler:quote-filled'
 // popclip version: 4688
 // keywords: curly quotes smart quotes straight quotes apostrophes
-// foo: bar111111
+// foo: bar1111111
 
 const singleQuotes = /[‘’]/gu;
 const doubleQuotes = /[“”]/gu;
